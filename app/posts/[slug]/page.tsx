@@ -12,8 +12,8 @@ export async function generateStaticParams() {
   }))
 }
 
-export default function PostPage({ params }: Props) {
-  const post = getPostBySlug(params.slug)
+export default async function PostPage({ params }: Props) {
+  const post = await getPostBySlug(params.slug)
 
   if (!post) {
     notFound()
