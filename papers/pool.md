@@ -337,7 +337,7 @@
 | 2026-03-01 | 2.1 | AMD Instinct MI350... | ✅ 已完成（额外生成） |
 | 2026-03-02 | 31.4 | VARSA: Visual Autoregressive Generation Accelerator... | ✅ 已完成 |
 | 2026-03-05 | 31.3 | Subspace-Rotation-Based LLM Accelerator... | ✅ 已完成（已推送） |
-| 2026-03-06 | 30.9 | Intel 18A Synthesizable CIM... | ⏳ 待执行 |
+| 2026-03-08 | 30.9 | Intel 18A Synthesizable CIM... | ✅ 已完成 |
 
 ---
 
