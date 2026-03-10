@@ -338,6 +338,8 @@
 | 2026-03-02 | 31.4 | VARSA: Visual Autoregressive Generation Accelerator... | ✅ 已完成 |
 | 2026-03-05 | 31.3 | Subspace-Rotation-Based LLM Accelerator... | ✅ 已完成（已推送） |
 | 2026-03-08 | 30.9 | Intel 18A Synthesizable CIM... | ✅ 已完成 |
+| 2026-03-09 | 17.4 | Microsoft MAIA: A Reticle-Scale AI Accelerator... | ✅ 已完成 |
+| 2026-03-10 | 2.2 | Rebellions REBEL-Quad: Quad-Chiplet AI SoC with UCIe-Advanced... | ✅ 已完成 |
 
 ---
 

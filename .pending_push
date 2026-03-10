@@ -1,0 +1,10 @@
+ISSCC论文解读: Rebellions Quad-Chiplet AI SoC - 2026-03-10
+
+解读文章: content/posts/2026-03-10-rebellions-rebel-quad-chiplet-ai-soc.md
+
+Commit信息:
+- Add ISSCC 2026 Rebellions Quad-Chiplet AI SoC paper interpretation
+- UCIe-Advanced 16Gbps die-to-die interface
+- 56.8 TPS on LLaMA v3.3 70B
+
+生成时间: 2026-03-10 15:05
